@@ -1,0 +1,11 @@
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+C:\Users\FISEI-LB6\Desktop\Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
